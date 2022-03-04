@@ -1,0 +1,5 @@
+07:21:58.677 [main] INFO  resources.BaseClass - Clickd on login Button by passing username & password
+07:21:59.487 [main] INFO  resources.BaseClass - Landed on home page
+07:21:59.487 [main] INFO  resources.BaseClass - home page object is created
+07:22:02.346 [main] INFO  resources.BaseClass - Clickd on login Button by passing username & password
+07:22:02.350 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

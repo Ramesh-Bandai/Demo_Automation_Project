@@ -1,0 +1,7 @@
+23:58:37.093 [main] INFO  resources.BaseClass - driver is initialized
+23:58:40.334 [main] INFO  resources.BaseClass - Landed on home page
+23:58:40.335 [main] INFO  resources.BaseClass - home page object is created
+23:58:43.759 [main] INFO  resources.BaseClass - Clickd on login Button by passing username & password
+23:58:45.113 [main] INFO  resources.BaseClass - Landed on home page
+23:58:45.113 [main] INFO  resources.BaseClass - home page object is created
+23:58:47.884 [main] INFO  resources.BaseClass - Clickd on login Button by passing username & password

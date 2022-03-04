@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="resources.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Title Validation on browser Test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.TitleValidationTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="TearDown"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- testCases.TitleValidationTest -->
+    </classes>
+  </test> <!-- Title Validation on browser Test(failed) -->
+  <test thread-count="5" name="User Login page Test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.LoginTest">
+        <methods>
+          <include name="Test1"/>
+          <include name="invokeBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.LoginTest -->
+    </classes>
+  </test> <!-- User Login page Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
